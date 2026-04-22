@@ -139,15 +139,15 @@ Po ověření funkčnosti:
 | Kód? | ne | ne | ne / low-code | TypeScript / C# |
 
 **250 dotazů za měsíc v PAYG ≈ cena Premium licence.**  
-Jak nastavit PAYG billing: [docs.microsoft.com/m365-copilot-payg](https://learn.microsoft.com/en-us/microsoft-365/admin/misc/copilot-for-microsoft-365-pay-as-you-go)
+Jak nastavit PAYG billing: [learn.microsoft.com/microsoft-365/copilot/pay-as-you-go/overview](https://learn.microsoft.com/en-us/microsoft-365/copilot/pay-as-you-go/overview)
 
 ---
 
 ## Navazující kurzy (GOPAS)
 
 - **[MS-4010](https://www.gopas.cz)** — Rozšíření M365 Copilot o deklarativní agenty pomocí VS Code
-- **[MS-4022](https://www.gopas.cz)** — Rozšíření M365 Copilot v Copilot Studio  
 - **[SPO-COPILOT](https://www.gopas.cz)** — Microsoft 365 Agents SDK a Copilot Extensions
+- **[GOC224](https://www.gopas.cz)** — Microsoft 365 - správa SharePoint Copilot a SharePoint Premium
 
 ---
 
